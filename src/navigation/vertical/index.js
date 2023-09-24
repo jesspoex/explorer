@@ -32,23 +32,23 @@ function processMenu() {
   } else {
     chainMenus.push({
       title: 'Website',
-      href: 'https://sychonix.me',
+      href: 'https://me.jesspoex.xyz',
       icon: 'ChromeIcon',
     })
   }
   chainMenus.push({
     title: 'Discord',
-    href: 'https://discordapp.com/users/803665234799362088',
+    href: 'https://discordapp.com/users/692084394327801887',
     icon: 'MessageSquareIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/sychonixx',
+    href: 'https://twitter.com/jesspoex',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/sychonix',
+    href: 'https://github.com/jesspoex',
     icon: 'GithubIcon',
   })
 
