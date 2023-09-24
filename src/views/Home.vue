@@ -7,7 +7,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-        <img src="22.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
+        <img src="3.png" alt="logo" style="width:100px;height:100px;margin: 12px;" onContextMenu="return false;">
 
           jesspoex | EXPLORER<small class="flow-left"></small>
         </h1>
