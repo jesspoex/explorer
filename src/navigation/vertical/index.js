@@ -26,7 +26,7 @@ function processMenu() {
   if (isTestnet()) {
     chainMenus.push({
       title: 'Website Service',
-      href: 'https://service.sychonix.me/',
+      href: 'https://service.jesspoex.xyz/',
       icon: 'ChromeIcon',
     })
   } else {
