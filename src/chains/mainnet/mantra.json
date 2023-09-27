@@ -1,10 +1,10 @@
 {
     "chain_name": "mantrachain-testnet",
     "api": [
-            "https://api-t.mantra.nodestake.top"
+            "https://testnet-mantra-api.konsortech.xyz"
           ],
     "rpc": [
-            "https://rpc-t.mantra.nodestake.top"
+            "https://testnet-mantra-rpc.konsortech.xyz"
           ],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
