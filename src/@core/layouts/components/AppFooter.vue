@@ -4,9 +4,9 @@
       Powered By
       <b-link
         class="ml-25 font-weight-bolder"
-        href="https://sychonix.me"
+        href="https://me.jesspoex.xyz"
         target="_blank"
-      >sychonix</b-link>
+      >jesspoex</b-link>
     </span>
 
     <!-- <router-link
