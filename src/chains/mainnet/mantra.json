@@ -1,5 +1,5 @@
 {
-    "chain_name": "mantrachain-testnet",
+    "chain_name": "mantra-testnet",
     "api": [
             "https://testnet-mantra-api.konsortech.xyz"
           ],
