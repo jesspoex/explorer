@@ -1,17 +1,17 @@
 {
-    "chain_name": "ojo-testnet",
-    "api": ["https://ojo-testnet.api.kjnodes.com/","https://api.ojo-t.indonode.net/"],
-    "rpc": ["https://ojo-testnet.nodejumper.io:443"],
+    "chain_name": "empe-testnet",
+    "api": ["https://empe-testnet.api.ksalab.xyz/"],
+    "rpc": ["https://empe-testnet.rpc.ksalab.xyz/"],
     "sdk_version": "0.46.7",
-    "addr_prefix": "ojo",
+    "addr_prefix": "empe",
     "min_tx_fee": "5000",
-    "logo": "/logos/ojo.png",
+    "logo": "/logos/empe.jpg",
     "assets": [
       {
-        "symbol": "OJO",
-        "base": "uojo",
+        "symbol": "empe",
+        "base": "uempe",
         "exponent": 6,
-        "logo": "/logos/ojo.png"
+        "logo": "/logos/empe.jpg"
       }
     ]
   }
